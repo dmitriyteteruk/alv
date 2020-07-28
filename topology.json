@@ -56,6 +56,18 @@
           "type": "String",
           "description": "hub sink output name",
           "default": "detectedObjects"
+        },
+        {
+            "name": "motionSensitivity",
+            "type": "String",
+            "description": "motion detection sensitivity",
+            "default": "medium"
+        },
+        {
+            "name": "fileSinkOutputName",
+            "type": "String",
+            "description": "file sink output name",
+            "default": "filesinkOutput"
         }
       ],
       "sources": [
