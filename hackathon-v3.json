@@ -37,7 +37,7 @@
         "name": "inferencingUrl",
         "type": "String",
         "description": "inferencing Url",
-        "default": "http://yolov3/score"
+        "default": "http://carplaterecognition/recognizeplate"
       },
       {
         "name": "inferencingUserName",
